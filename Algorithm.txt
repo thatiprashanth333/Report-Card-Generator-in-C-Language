@@ -1,0 +1,17 @@
+REPORT CARD GENERATOR APP
+
+ALGORITHM:
+
+STEP 1 : Input Name, Standard, Section
+STEP 2 : Input Marks of Mathematics, English, Hindi, Science and Social Sciences
+STEP 3 : Compute totalMarks = Mathematics + English + Hindi + Science + Social Sciences
+STEP 4 : If totalMarks is greater than or equal to 0 and totalMarks is less than or equal to 500 then print Report Card Generated orelse terminate the program 
+STEP 5 : Print School name and Report Card Generator 
+STEP 6 : Print Name, Standard, Section, Mathematics, English, Hindi, Science, Social Sciences and Total Marks
+STEP 7 : 1) If totalMarks is greater than 450 and totalMarks is less than 500 then print Grade A
+	 2) If totalMarks is greater than 400 and totalMarks is less than 449 then print Grade B
+	 3) If totalMarks is greater than 350 and totalMarks is less than 399 then print Grade C
+	 4) If totalMarks is greater than 300 and totalMarks is less than 349 then print Grade D
+	 5) If totalMarks is greater than 200 and totalMarks is less than 299 then print Grade E
+         6) Else print Grade F
+STEP 7 : Print Thankyou.
